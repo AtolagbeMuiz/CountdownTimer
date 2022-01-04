@@ -1,0 +1,30 @@
+.deadline{
+    display: flex;
+}
+
+.deadline-format{
+    background-color: rgba(0, 26, 255, 0.699);
+    text-decoration: white;
+    display: inline-flex;
+    margin: 20px;
+    border: black;
+    height: 100px;
+    width: 60px;
+    
+}
+
+.days{
+    text-align: center;
+    
+}
+
+.hours{
+    text-align: center;
+}
+
+.minutes{
+    text-align: center;
+}
+.seconds{
+    text-align: center;
+}
